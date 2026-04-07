@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    front-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+    /*Cabeçalho */
+header {
+    background-color: #8B0000;
+    color: white;
+    padding: 15px;
+    text-align: center; 
+}
+
+    /* Conteudo Principal */
+main {
+    padding: 20px;
+}
+
+    /*Cards */
+selection {
+    background: white;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+    /*Titulos */
+h1, h2 {
+    color: 8B0000;
+    
+    /*Botoes */
+button { 
+    background
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+    
+    
+    
