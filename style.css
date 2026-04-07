@@ -5,7 +5,6 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Cabeçalho */
 header {
     background-color: #8B0000;
     color: white;
@@ -13,12 +12,10 @@ header {
     text-align: center;
 }
 
-/* Conteúdo Principal */
 main {
     padding: 20px;
 }
 
-/* Cards */
 section {
     background: white;
     margin-bottom: 20px;
@@ -26,12 +23,10 @@ section {
     border-radius: 10px;
 }
 
-/* Títulos */
 h1, h2 {
     color: #8B0000;
 }
 
-/* Botões */
 button {
     background-color: #8B0000;
     color: white;
