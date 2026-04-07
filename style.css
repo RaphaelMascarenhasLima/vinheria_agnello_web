@@ -1,43 +1,41 @@
 body {
     margin: 0;
     padding: 0;
-    front-family: Arial, sans-serif;
+    font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
 
-    /*Cabeçalho */
+/* Cabeçalho */
 header {
     background-color: #8B0000;
     color: white;
     padding: 15px;
-    text-align: center; 
+    text-align: center;
 }
 
-    /* Conteudo Principal */
+/* Conteúdo Principal */
 main {
     padding: 20px;
 }
 
-    /*Cards */
-selection {
+/* Cards */
+section {
     background: white;
     margin-bottom: 20px;
     padding: 15px;
     border-radius: 10px;
 }
 
-    /*Titulos */
+/* Títulos */
 h1, h2 {
-    color: 8B0000;
-    
-    /*Botoes */
-button { 
-    background
+    color: #8B0000;
+}
+
+/* Botões */
+button {
+    background-color: #8B0000;
     color: white;
     border: none;
     padding: 10px 15px;
     border-radius: 5px;
 }
-    
-    
-    
