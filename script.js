@@ -105,4 +105,14 @@ while (continuar.toLowerCase() === "sim") {
     );
 
     continuar = prompt("Deseja cadastrar outro vinho? (sim/não)");
-}
+alert(
+    "Resumo Final:\n" +
+    "Total de cadastros: " + totalCadastros +
+    "\nVinhos com estoque baixo: " + totalEstoqueBaixo +
+    "\nVinho com safra mais antiga: " + vinhoMaisAntigo
+);
+
+console.log("===== RESUMO FINAL =====");
+console.log("Total de cadastros:", totalCadastros);
+console.log("Vinhos com estoque baixo:", totalEstoqueBaixo);
+console.log("Vinho mais antigo:", vinhoMaisAntigo);}
